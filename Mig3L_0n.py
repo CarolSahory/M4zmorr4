@@ -5,10 +5,10 @@ from os import system
 system("title KUKORO - MAZMORRA")
 
 # REEMPLAZAR POR TUS DATOS
-Canales = ['CANAL(ES)']
-Administradores = ['ADMINISTRADOR(ES)']
-Comando = 'TU_COMANDO'
-TokenTwitch = 'TOKEN_DEL_BOT'
+Canales = [elsushipan]
+Administradores = [elsushipan, tupadre171']
+Comando = !CarolSahory
+TokenTwitch = oauth:w6e6vzu78cyty48kheoanh0ik6blw5'
 
 class Bot(commands.Bot):
     def __init__(self):         
